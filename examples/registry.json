@@ -1,0 +1,401 @@
+[
+  {
+    "tool_id": "elevenlabs",
+    "name": "ElevenLabs",
+    "category": "ai",
+    "tags": [
+      "text_to_speech",
+      "voice",
+      "audio",
+      "ai_voice",
+      "voice_cloning",
+      "content_creation"
+    ],
+    "description": "AI voice synthesis platform. Text-to-speech, voice cloning, multilingual voiceovers, and audio generation for content production.",
+    "affiliate_url": "https://try.elevenlabs.io/niw86cy7bu6v",
+    "commission": "22% first 12mo (customer tier), 11% first 12mo (business tier)",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "firecrawl",
+    "name": "Firecrawl",
+    "category": "scraping",
+    "tags": [
+      "web_scraping",
+      "crawling",
+      "ai_scraping",
+      "structured_data"
+    ],
+    "description": "AI-powered web crawling and data extraction. Converts any website into clean markdown or structured data.",
+    "affiliate_url": "https://firecrawl.link/rich-wilson",
+    "commission": "25% / 12mo, then 15% ongoing",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "searchapi",
+    "name": "SearchApi",
+    "category": "serp",
+    "tags": [
+      "search_api",
+      "serp",
+      "google_search",
+      "seo"
+    ],
+    "description": "SERP API for Google search results. Competitor to Serper.dev.",
+    "affiliate_url": "https://www.searchapi.io/?via=joseph",
+    "commission": "30% / 12mo",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "highlevel_pro_trial",
+    "name": "HighLevel Pro Trial",
+    "category": "crm",
+    "tags": [
+      "crm",
+      "marketing_platform",
+      "agency",
+      "funnels",
+      "email_marketing",
+      "sms"
+    ],
+    "description": "All-in-one sales and marketing platform for agencies. CRM, funnels, email/SMS, appointments, reputation management.",
+    "affiliate_url": "https://www.gohighlevel.com/pro-trial?fp_ref=bloomfield-growth-agency11",
+    "commission": "40% recurring monthly",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "highlevel_general",
+    "name": "HighLevel (General)",
+    "category": "crm",
+    "tags": [
+      "crm",
+      "marketing_platform",
+      "agency",
+      "funnels"
+    ],
+    "description": "All-in-one sales and marketing platform for agencies.",
+    "affiliate_url": "https://www.gohighlevel.com/?fp_ref=bloomfield-growth-agency66",
+    "commission": "40% recurring monthly",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "highlevel_annual",
+    "name": "HighLevel Annual",
+    "category": "crm",
+    "tags": [
+      "crm",
+      "marketing_platform",
+      "agency",
+      "annual"
+    ],
+    "description": "HighLevel annual billing plan for agencies.",
+    "affiliate_url": "https://gohighlevel.com/annual?fp_ref=bloomfield-growth-agency66",
+    "commission": "40% recurring monthly",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "highlevel_bootcamp",
+    "name": "HighLevel Bootcamp",
+    "category": "crm",
+    "tags": [
+      "crm",
+      "training",
+      "onboarding"
+    ],
+    "description": "HighLevel bootcamp training and onboarding program.",
+    "affiliate_url": "https://www.gohighlevel.com/highlevel-bootcamp?fp_ref=bloomfield-growth-agency66",
+    "commission": "40% recurring monthly",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "highlevel_ai",
+    "name": "HighLevel AI Features",
+    "category": "crm",
+    "tags": [
+      "crm",
+      "ai",
+      "automation"
+    ],
+    "description": "HighLevel AI features page showcasing their AI capabilities for agencies.",
+    "affiliate_url": "https://www.gohighlevel.com/ai?fp_ref=bloomfield-growth-agency66",
+    "commission": "40% recurring monthly",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "highlevel_pricing",
+    "name": "HighLevel Pricing",
+    "category": "crm",
+    "tags": [
+      "crm",
+      "pricing",
+      "plans"
+    ],
+    "description": "HighLevel pricing and plans page.",
+    "affiliate_url": "https://www.gohighlevel.com/pricing?fp_ref=bloomfield-growth-agency66",
+    "commission": "40% recurring monthly",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "callrail",
+    "name": "CallRail",
+    "category": "communications",
+    "tags": [
+      "call_tracking",
+      "lead_attribution",
+      "conversation_ai",
+      "analytics"
+    ],
+    "description": "AI-powered call tracking and lead engagement intelligence platform. Tracks calls from campaigns, analyzes conversations, attributes leads.",
+    "affiliate_url": "https://partners.callrail.com/54qmo780sdq5",
+    "commission": "via PartnerStack",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "brand24",
+    "name": "Brand24",
+    "category": "social_listening",
+    "tags": [
+      "social_listening",
+      "brand_monitoring",
+      "sentiment",
+      "reputation"
+    ],
+    "description": "AI social listening tool monitoring 25M+ sources for brand mentions, sentiment analysis, and competitive intelligence.",
+    "affiliate_url": "https://try.brand24.com/jmqw2xwk51rq",
+    "commission": "via PartnerStack",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "contentsquare",
+    "name": "ContentSquare",
+    "category": "analytics",
+    "tags": [
+      "analytics",
+      "ux",
+      "heatmaps",
+      "session_replay",
+      "cro"
+    ],
+    "description": "Digital experience analytics platform: heatmaps, session replay, zone-based analytics, user journey analysis, friction detection.",
+    "affiliate_url": "https://invite.contentsquare.com/xqmr3bn4l9o1",
+    "commission": "via PartnerStack",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "jobber",
+    "name": "Jobber",
+    "category": "operations",
+    "tags": [
+      "field_service",
+      "scheduling",
+      "invoicing",
+      "home_services"
+    ],
+    "description": "Home and commercial service business management platform: scheduling, quoting, invoicing, payments, client management.",
+    "affiliate_url": "https://go.getjobber.com/291n18wi78co",
+    "commission": "via PartnerStack",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "adcreative",
+    "name": "AdCreative.ai",
+    "category": "creative",
+    "tags": [
+      "ad_creative",
+      "ai_generation",
+      "images",
+      "video",
+      "copy",
+      "google_ads",
+      "meta_ads"
+    ],
+    "description": "AI-powered ad creative generation platform. Generates high-performing images, videos, and copy for digital ads.",
+    "affiliate_url": "https://free-trial.adcreative.ai/5yrfabb9t5va",
+    "commission": "via PartnerStack",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "gusto",
+    "name": "Gusto",
+    "category": "hr",
+    "tags": [
+      "payroll",
+      "hr",
+      "benefits",
+      "onboarding",
+      "smb"
+    ],
+    "description": "All-in-one payroll, benefits, and HR platform for SMBs. Automates payroll, tax filing, onboarding, time tracking.",
+    "affiliate_url": "https://get.gusto.com/yky2kp5rrrc1",
+    "commission": "via PartnerStack",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "pagecloud",
+    "name": "Pagecloud",
+    "category": "web",
+    "tags": [
+      "website_builder",
+      "landing_pages",
+      "drag_drop",
+      "ecommerce"
+    ],
+    "description": "Drag-and-drop website builder with AI features, popup builder, e-commerce, and analytics.",
+    "affiliate_url": "https://cloudl.ink/zs16oj3ghz83",
+    "commission": "via PartnerStack",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "dialpad",
+    "name": "Dialpad",
+    "category": "communications",
+    "tags": [
+      "business_phone",
+      "contact_center",
+      "voip",
+      "video_conferencing",
+      "ai_transcription"
+    ],
+    "description": "AI-native business communications platform: omnichannel contact center, voice, video, messaging, AI transcription.",
+    "affiliate_url": "https://www.dialpad.com/partners/channel-partners/",
+    "commission": "Channel partner program",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "flexxbuy",
+    "name": "Flexxbuy",
+    "category": "financing",
+    "tags": [
+      "bnpl",
+      "customer_financing",
+      "home_services",
+      "payment_plans"
+    ],
+    "description": "Buy now pay later customer financing platform tailored for home improvement and home services businesses.",
+    "affiliate_url": "https://join.flexxbuy.com/06rgogme1yen",
+    "commission": "via PartnerStack",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "n8n",
+    "name": "n8n",
+    "category": "automation",
+    "tags": [
+      "workflow_automation",
+      "integration",
+      "low_code",
+      "agents"
+    ],
+    "description": "Workflow automation platform. Very popular with agent builders for connecting APIs and automating workflows.",
+    "affiliate_url": "https://n8n.io/affiliates/",
+    "commission": "30% / 12mo (pending approval)",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "zenrows",
+    "name": "ZenRows",
+    "category": "scraping",
+    "tags": [
+      "web_scraping",
+      "proxy",
+      "anti_bot"
+    ],
+    "description": "Web scraping API with proxy rotation and anti-bot bypass.",
+    "affiliate_url": "https://www.zenrows.com/affiliate",
+    "commission": "pending approval",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "scrapingbee",
+    "name": "ScrapingBee",
+    "category": "scraping",
+    "tags": [
+      "web_scraping",
+      "api",
+      "proxy"
+    ],
+    "description": "Web scraping API service with headless browser support and proxy rotation.",
+    "affiliate_url": "https://www.scrapingbee.com/affiliates/",
+    "commission": "20-25% recurring (pending approval)",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "apify",
+    "name": "Apify",
+    "category": "scraping",
+    "tags": [
+      "web_scraping",
+      "actors",
+      "automation",
+      "marketplace"
+    ],
+    "description": "Full-stack web scraping and automation platform with a marketplace of 38,000+ reusable Actors.",
+    "affiliate_url": "https://affiliate.apify.com/",
+    "commission": "20-30% recurring (pending approval)",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "serper",
+    "name": "Serper.dev",
+    "category": "serp",
+    "tags": [
+      "search_api",
+      "serp",
+      "google_search",
+      "seo",
+      "agent_friendly",
+      "serp_api",
+      "search"
+    ],
+    "description": "Fast, affordable SERP API. Agent-friendly docs and simple pricing. No minimum commit.",
+    "affiliate_url": "https://serper.dev/?ref=rich",
+    "commission": "25% / 12mo",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "make",
+    "name": "Make (Integromat)",
+    "category": "automation",
+    "tags": [
+      "automation",
+      "workflow",
+      "integration",
+      "no_code"
+    ],
+    "description": "Visual automation platform for connecting APIs and building workflows. More flexible than n8n for non-technical users.",
+    "affiliate_url": "https://www.make.com/en/register?pc=bloomfield",
+    "commission": "% of subscription (pending approval)",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "grammarly",
+    "name": "Grammarly",
+    "category": "creative",
+    "tags": [
+      "writing",
+      "ai_writing",
+      "content",
+      "editing"
+    ],
+    "description": "AI writing assistant for content teams. Tone detection, plagiarism check, brand voice consistency.",
+    "affiliate_url": "https://grammarly.go2cloud.org/aff_c?offer_id=4&aff_id=bloomfield",
+    "commission": "30% / 12mo (pending approval)",
+    "payout_owner": "Rich"
+  },
+  {
+    "tool_id": "claude_api",
+    "name": "Anthropic Claude API",
+    "category": "ai",
+    "tags": [
+      "llm",
+      "ai",
+      "api",
+      "text_generation",
+      "agent_safe"
+    ],
+    "description": "Claude API for agent architectures. Strong tool use, long context, safety guardrails built in.",
+    "affiliate_url": "https://www.anthropic.com/research",
+    "commission": "pending approval",
+    "payout_owner": "Rich"
+  }
+]
